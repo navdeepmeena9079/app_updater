@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2.2.0</latestVersion>
-    <latestVersionCode>2</latestVersionCode>
+    <latestVersionCode>12</latestVersionCode>
     <url>https://github.com/navdeepmeena9079/app_updater/raw/master/gch_latest.apk</url>
     <releaseNotes>
 - First evolution
